@@ -7,7 +7,7 @@
     }
   ],
   "env": {
-    "MONGODB_URI": "@dbURI",
+    "dbURI": "@dbURI",
     "PORT": "@PORT"
   },
   "routes": [
